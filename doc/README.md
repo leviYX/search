@@ -6,25 +6,25 @@
 
 ## 文档索引
 
-- [地图搜索资深专家学习路线图](./map-search-senior-learning-roadmap.md)
+- [地图搜索资深专家学习路线图](map-search-senior-learning-roadmap.md)
   - 总路线、9 个月分阶段计划、前 12 周逐周执行版、资料索引、验收标准
-- [地图搜索实战项目手册](./map-search-practice-projects.md)
+- [地图搜索实战项目手册](map-search-practice-projects.md)
   - 4 个核心项目、里程碑、交付物、验收标准、推荐技术选型
-- [地图搜索模板与工作流](./map-search-templates.md)
+- [地图搜索模板与工作流](map-search-templates.md)
   - badcase 模板、周报模板、月报模板、评估模板、实验复盘模板
-- [地图搜索自测题库与面试题](./map-search-self-assessment-and-interview-bank.md)
+- [地图搜索自测题库与面试题](map-search-self-assessment-and-interview-bank.md)
   - 分模块题库、答案要点、负责人级问题、90 天 / 6 个月 / 9 个月自测清单
-- [地图搜索技术方案模板](./map-search-tech-design-template.md)
+- [地图搜索技术方案模板](map-search-tech-design-template.md)
   - 负责人视角的技术方案写法、专项治理方案模板、风险回滚模板
 
 ## 建议使用顺序
 
-1. 先读 [地图搜索资深专家学习路线图](./map-search-senior-learning-roadmap.md)
+1. 先读 [地图搜索资深专家学习路线图](map-search-senior-learning-roadmap.md)
 2. 按前 12 周计划推进
-3. 同步使用 [地图搜索模板与工作流](./map-search-templates.md) 记录过程
-4. 每月做一次 [地图搜索自测题库与面试题](./map-search-self-assessment-and-interview-bank.md) 自检
-5. 当你进入专项优化阶段，按 [地图搜索实战项目手册](./map-search-practice-projects.md) 落项目
-6. 当你要主导复杂专项时，使用 [地图搜索技术方案模板](./map-search-tech-design-template.md) 输出方案
+3. 同步使用 [地图搜索模板与工作流](map-search-templates.md) 记录过程
+4. 每月做一次 [地图搜索自测题库与面试题](map-search-self-assessment-and-interview-bank.md) 自检
+5. 当你进入专项优化阶段，按 [地图搜索实战项目手册](map-search-practice-projects.md) 落项目
+6. 当你要主导复杂专项时，使用 [地图搜索技术方案模板](map-search-tech-design-template.md) 输出方案
 
 ## 推荐执行节奏
 
