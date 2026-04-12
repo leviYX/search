@@ -54,6 +54,7 @@
 - 不知道这周做什么：看 [搜索架构师前 90 天任务面板](search-architect-first-90-days-task-board.md)
 - 不知道长期怎么走：看 [搜索架构师 24 个月执行计划](search-architect-24-month-execution-plan.md)
 - 不知道读什么、做什么实验：看 [搜索架构师必读资料、必做实验、必拆源码清单](search-architect-reading-experiments-and-teardowns.md)
+- 不知道验证平台怎么搭：看 [搜索验证平台架构设计](search-validation-platform-architecture.md)
 - 不知道怎么记 badcase、周报、评估：看 [地图搜索模板与工作流](map-search-templates.md)
 - 不知道怎么写专项方案：看 [地图搜索技术方案模板](map-search-tech-design-template.md)
 
@@ -69,6 +70,8 @@
   - 把前 3 个月拆成每周任务、交付物、验收标准和风险，适合立刻开始执行
 - [搜索架构师必读资料、必做实验、必拆源码清单](search-architect-reading-experiments-and-teardowns.md)
   - 读什么、做什么实验、拆什么源码的完整清单
+- [搜索验证平台架构设计](search-validation-platform-architecture.md)
+  - 基于 Vue + Go + ES + Python 的搜索验证平台设计，包含模块拆分、请求链路、最小可行版本和演进建议
 - [POI 搜索负责人级学习路线图](poi-search-principal-learning-roadmap.md)
   - 面向 POI / 地图搜索负责人的高阶路线，补齐数据融合、Suggest、召回路由、粗排、精排、业务重排、训练闭环
 - [地图搜索资深专家学习路线图](map-search-senior-learning-roadmap.md)
